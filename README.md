@@ -1,16 +1,23 @@
-## Hi there 👋
+# Привет! Я Tonight132435 👋 
 
-<!--
-**Tonight132435/Tonight132435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🇮🇱 Путь в Tech & High-Tech
+- 🎓 **Current Goal:** Программа NAALE -> Поступление в профильный вуз/подразделение.
+- 🎯 **Target:** Подготовка к отбору в технологические подразделения (Aman/8200).
+- 🧠 **Focus:** Алгоритмы, Computer Science и основы кибербезопасности.
 
-Here are some ideas to get you started:
+### 🛠 Stack & Tools
+![C++](https://img.shields.io)
+![Python](https://img.shields.io)
+![Linux](https://img.shields.io)
+![Network](https://img.shields.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Achievements & Learning
+- 📚 Изучаю: Python, postgresql, Visual Studio Code.
+- 🛡 Интересуюсь: Reverse Engineering и сетевой безопасностью.
+
+### 📊 GitHub Activity
+![Tonight132435's Stats](https://github-readme-stats.vercel.app)
+
+---
+*«The best way to predict the future is to create it.»*
+
