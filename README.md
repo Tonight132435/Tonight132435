@@ -15,7 +15,7 @@ Network.
 - 🛡 Интересуюсь: Reverse Engineering и сетевой безопасностью.
 
 ### 📊 GitHub Activity
-![Tonight132435's Stats](https://github-readme-stats.vercel.app)
+![Stats](https://github-readme-stats.vercel.app)
 
 ---
 *«The best way to predict the future is to create it.»*
