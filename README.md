@@ -6,8 +6,8 @@
 - 🧠 **Focus:** Алгоритмы, Computer Science и основы кибербезопасности.
 
 ### 🛠 Stack & Tools
-C++,
-Python,
+C++, 
+Python, 
 Network.
 
 ### 🏆 Achievements & Learning
