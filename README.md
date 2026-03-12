@@ -6,9 +6,9 @@
 - 🧠 **Focus:** Алгоритмы, Computer Science и основы кибербезопасности.
 
 ### 🛠 Stack & Tools
-![C++](https://img.shields.io)
-![Python](https://img.shields.io)
-![Network](https://img.shields.io)
+C++,
+Python,
+Network.
 
 ### 🏆 Achievements & Learning
 - 📚 Изучаю: Python, postgresql, Visual Studio Code.
