@@ -8,7 +8,6 @@
 ### 🛠 Stack & Tools
 ![C++](https://img.shields.io)
 ![Python](https://img.shields.io)
-![Linux](https://img.shields.io)
 ![Network](https://img.shields.io)
 
 ### 🏆 Achievements & Learning
